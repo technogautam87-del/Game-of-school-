@@ -1,0 +1,6 @@
+{
+  "name": "Classwise Learning Games",
+  "description": "An interactive, colorful Android game for class-wise, subject-wise, and chapter-wise learning, featuring dynamic quizzes, matching cards, customized side-scrolling motion games, unlockable skins, real-time leaderboard, progress tracking, and parent monitoring logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
